@@ -1,0 +1,40 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    #- icon: twitter
+     # text: Twitter
+      #href: https://twitter.com/MarvinSchmittML
+    - icon: github
+      text: Github
+      href: https://github.com/ttrann202
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/thaotrann/
+    - icon: envelope
+      text: Email
+      href: "mailto:thao.tranphuong202@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome, thank you for stopping by!
+
+I am a researcher specializing in applied social and health psychology. My objective is to formulate and validate robust statistical frameworks aimed at comprehending intricate interactions among various socio-ecological elements, and ultimately, help promote a wholesome and purposeful existence for individuals. While my research has been primarily quantitatively driven, I am actively incorporating more qualitative and mixed method approaches in my present and future work to garner more holistic understanding of human experiences.
+
+## Education
+
+- **PhD in Psychology** \| 2023 \| Colorado State University \| Fort Collins, CO, USA
+- **MS Psychology** \| 2020 \| Colorado State University \| Fort Collins, CO, USA
+- **BA Economics (Business minor)** \| 2015 \| Colorado State University \| Fort Collins, CO, USA
+- **BA Economics** \| 2015 \| Foreign Trade University \| Hanoi, Vietnam
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://1drv.ms/b/s!AgMw9OjBTBkp1H91wNLzJW9omaeW?e=pt9BAp" role="button" target="_blank" style="padding: 15px 30px;">Download my up-to-date vitae</a>
+</div>
+```
+
