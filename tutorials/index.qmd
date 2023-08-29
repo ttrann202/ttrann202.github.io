@@ -1,0 +1,21 @@
+---
+layout: page
+title: Coding tutorials
+listing: 
+  fields: [title]
+  contents:
+    - Data_cleaning.pdf
+---
+
+I care deeply about transparent and reproducible research. Throughout the course of my own training, I have put together a few tutorials to make open-source resources like R more accessible for social science researchers. 
+
+### Introduction to missing data handling in R
+
+[Understand and Handle Missing Data in R Using the lavaan Package](https://gibbons-courses.shinyapps.io/Missing-data-handling-in-R-with-lavaan) is an introductory tutorial on identifying missing data and modern methods to deal with missingness. 
+
+### Data cleaning in R
+
+Many social science researchers work with survey data at some point in their careers. Cleaning and getting data ready for analysis is a time-consuming and critically important task.  
+
+<button type="button" class="btn btn-outline-success"><a href="/tutorials/Data_cleaning.pdf">Download this <strong>Data cleaning tutorial</strong> notebook</a></button>
+

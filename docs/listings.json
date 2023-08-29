@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/tutorials/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/hp2023/index.html",
+      "/publications/ei2022/index.html",
+      "/publications/sd2022/index.html",
+      "/publications/jsswr2022/index.html",
+      "/publications/rsos2021/index.html",
+      "/publications/sr2020/index.html",
+      "/publications/sd2021/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": []
+  }
+]

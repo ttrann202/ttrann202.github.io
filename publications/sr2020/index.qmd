@@ -1,0 +1,17 @@
+---
+date: "2021-03-03"
+title: "A predictive internet-based model for COVID-19 hospitalization census"
+subtitle: Philip J. Turk, Thao P. Tran, Geoffrey A. Rose, Andrew McWilliams
+image: featured.png
+title-block-style: none
+toc: true
+---
+
+<button type="button" class="btn btn-outline-success"><a href="/publications/sr2020/vecm2020.pdf">pdf</a></button>
+
+<button type="button" class="btn btn-outline-success"><a href="https://doi.org/10.1038/s41598-021-84091-2">journal</a></button>
+
+*Scientific Reports*
+
+## Abstract 
+The COVID-19 pandemic has strained hospital resources and necessitated the need for predictive models to forecast patient care demands in order to allow for adequate staffing and resource allocation. Recently, other studies have looked at associations between Google Trends data and the number of COVID-19 cases. Expanding on this approach, we propose a vector error correction model (VECM) for the number of COVID-19 patients in a healthcare system (Census) that incorporates Google search term activity and healthcare chatbot scores. The VECM provided a good fit to Census and very good forecasting performance as assessed by hypothesis tests and mean absolute percentage prediction error. Although our study and model have limitations, we have conducted a broad and insightful search for candidate Internet variables and employed rigorous statistical methods. We have demonstrated the VECM can potentially be a valuable component to a COVID-19 surveillance program in a healthcare system.

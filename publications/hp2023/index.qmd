@@ -1,0 +1,21 @@
+---
+date: "2023-04"
+title: "Mediation analysis of conspiratorial thinking and anti-expert sentiments on vaccine willingness"
+subtitle: Angélique M. Blackburn, Hyemin Han, Rebekah A. Gelpí, Sabrina Stöckli, Alma Jeftić, Brendan Ch’ng, Karolina Koszałkowska, David Lacko, Taciano L. Milfont, Yookyung Lee, Thao P. Tran, the COVIDiSTRESS II Consortium, Sara Vestergren
+image: featured.jpg
+title-block-style: none
+toc: true
+---
+
+<button type="button" class="btn btn-outline-success"><a href="/publications/hp2023/Mediation-Conspiracy-Vaccine.pdf">pdf</a></button>
+
+<button type="button" class="btn btn-outline-success"><a href="https://doi.org/10.1037/hea0001268">journal</a></button>
+
+*Health Psychology*
+
+## Abstract 
+Objective: Vaccines are an effective means to reduce the spread of diseases, but they are sometimes met with hesitancy that needs to be understood. Method: In this study, we analyzed data from a large, cross-country survey conducted between June and August 2021 in 43 countries (N = 15,740) to investigate the roles of trust in government and science in shaping vaccine attitudes and willingness to be vaccinated. Results: Despite significant variability between countries, we found that both forms of institutional trust were associated with a higher willingness to receive a COVID-19 vaccine. Furthermore, we found that conspiratorial thinking and anti-expert sentiments predicted reduced trust in government and science, respectively, and that trust mediated the relationship between these two constructs and ultimate vaccine attitudes. Although most countries displayed similar relationships between conspiratorial thinking and anti-expert sentiments, trust in government and science, and vaccine attitudes, we identified three countries (Brazil, Honduras, and Russia) that demonstrated significantly altered associations between the examined variables in terms of significant random slopes. Conclusions: Cross-country differences suggest that local governments’ support for COVID-19 prevention policies can influence populations’ vaccine attitudes. These findings provide insight for policymakers to develop interventions aiming to increase trust in the institutions involved in the vaccination process.
+
+## Supplementary Materials
+
+<button type="button" class="btn btn-outline-success"><a href="/publications/hp2023/HEA-2022-0015_supplemental_materials.docx">Download supplementary materials</a></button>

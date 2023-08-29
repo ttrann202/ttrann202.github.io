@@ -1,0 +1,21 @@
+---
+date: "2022-09-12"
+title: "Validity testing of the conspiratorial thinking and anti-expert sentiment scales during the COVID-19 pandemic across 24 languages from a large-scale global dataset"
+subtitle: Hyemin Han, Angélique M. Blackburn, Alma Jeftić, Thao Phuong Tran, Sabrina Stöckli, Jason Reifler, Sara Vestergren
+image: featured.png
+title-block-style: none
+toc: true
+---
+
+<button type="button" class="btn btn-outline-success"><a href="/publications/ei2022/validity-testing-ei2022.pdf">pdf</a></button>
+
+<button type="button" class="btn btn-outline-success"><a href="https://doi.org/10.1017/S0950268822001443">journal</a></button>
+
+*Epidemiology & Infection*
+
+## Abstract 
+In this study, we tested the validity across two scales addressing conspiratorial thinking that may influence behaviours related to public health and the COVID-19 pandemic. Using the COVIDiSTRESSII Global Survey data from 12 261 participants, we validated the 4-item Conspiratorial Thinking Scale and 3-item Anti-Expert Sentiment Scale across 24 languages and dialects that were used by at least 100 participants per language. We employed confirmatory factor analysis, measurement invariance test and measurement alignment for internal consistency testing. To test convergent validity of the two scales, we assessed correlations with trust in seven agents related to government, science and public health. Although scalar invariance was not achieved when measurement invariance test was conducted initially, we found that both scales can be employed in further international studies with measurement alignment. Moreover, both conspiratorial thinking and anti-expert sentiments were significantly and negatively correlated with trust in all agents. Findings from this study provide supporting evidence for the validity of both scales across 24 languages for future large-scale international research.
+
+## Supplementary Materials
+
+<button type="button" class="btn btn-outline-success"><a href="/publications/ei2022/supplementary.pdf">Download supplementary materials</a></button>

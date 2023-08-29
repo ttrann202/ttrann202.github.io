@@ -1,0 +1,17 @@
+---
+date: "2021-01-04"
+title: "COVIDiSTRESS Global Survey dataset on psychological and behavioural consequences of the COVID-19 outbreak"
+subtitle: Yuki Yamada, Dominik-Borna Ćepulić, Tao Coll-Martín, Stéphane Debove, Guillaume Gautreau, Hyemin Han, Jesper Rasmussen, Thao P. Tran, Giovanni A. Travaglino, COVIDiSTRESS Global Survey Consortium, Andreas Lieberoth
+image: featured.png
+title-block-style: none
+toc: true
+---
+
+<button type="button" class="btn btn-outline-success"><a href="/publications/sd2021/COVIDiSTRESSdata.pdf">pdf</a></button>
+
+<button type="button" class="btn btn-outline-success"><a href="https://doi.org/10.1038/s41597-020-00784-9">journal</a></button>
+
+*Scientific Data*
+
+## Abstract 
+This N = 173,426 social science dataset was collected through the collaborative COVIDiSTRESS Global Survey – an open science effort to improve understanding of the human experiences of the 2020 COVID-19 pandemic between 30th March and 30th May, 2020. The dataset allows a cross-cultural study of psychological and behavioural responses to the Coronavirus pandemic and associated government measures like cancellation of public functions and stay at home orders implemented in many countries. The dataset contains demographic background variables as well as measures of Asian Disease Problem, perceived stress (PSS-10), availability of social provisions (SPS-10), trust in various authorities, trust in governmental measures to contain the virus (OECD trust), personality traits (BFF-15), information behaviours, agreement with the level of government intervention, and compliance with preventive measures, along with a rich pool of exploratory variables and written experiences. A global consortium from 39 countries and regions worked together to build and translate a survey with variables of shared interests, and recruited participants in 47 languages and dialects. Raw plus cleaned data and dynamic visualizations are available.

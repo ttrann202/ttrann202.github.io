@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "tutorials/index.html",
+    "href": "tutorials/index.html",
+    "title": "Coding tutorials",
+    "section": "",
+    "text": "I care deeply about transparent and reproducible research. Throughout the course of my own training, I have put together a few tutorials to make open-source resources like R more accessible for social science researchers.\n\nIntroduction to missing data handling in R\nUnderstand and Handle Missing Data in R Using the lavaan Package is an introductory tutorial on identifying missing data and modern methods to deal with missingness.\n\n\nData cleaning in R\nMany social science researchers work with survey data at some point in their careers. Cleaning and getting data ready for analysis is a time-consuming and critically important task.\n\nDownload this Data cleaning tutorial notebook\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/sd2022/index.html",
+    "href": "publications/sd2022/index.html",
+    "title": "COVIDiSTRESS diverse dataset on psychological and behavioural outcomes one year into the COVID-19 pandemic",
+    "section": "",
+    "text": "pdf\nJournal of the Society of Social Work and Research"
+  },
+  {
+    "objectID": "publications/sd2022/index.html#abstract",
+    "href": "publications/sd2022/index.html#abstract",
+    "title": "COVIDiSTRESS diverse dataset on psychological and behavioural outcomes one year into the COVID-19 pandemic",
+    "section": "Abstract",
+    "text": "Abstract\nDuring the onset of the COVID-19 pandemic, the COVIDiSTRESS Consortium launched an open-access global survey to understand and improve individuals’ experiences related to the crisis. A year later, we extended this line of research by launching a new survey to address the dynamic landscape of the pandemic. This survey was released with the goal of addressing diversity, equity, and inclusion by working with over 150 researchers across the globe who collected data in 48 languages and dialects across 137 countries. The resulting cleaned dataset described here includes 15,740 of over 20,000 responses. The dataset allows cross-cultural study of psychological wellbeing and behaviours a year into the pandemic. It includes measures of stress, resilience, vaccine attitudes, trust in government and scientists, compliance, and information acquisition and misperceptions regarding COVID-19. Open-access raw and cleaned datasets with computed scores are available. Just as our initial COVIDiSTRESS dataset has facilitated government policy decisions regarding health crises, this dataset can be used by researchers and policy makers to inform research, decisions, and policy."
+  },
+  {
+    "objectID": "publications/sd2022/index.html#supplementary-materials",
+    "href": "publications/sd2022/index.html#supplementary-materials",
+    "title": "COVIDiSTRESS diverse dataset on psychological and behavioural outcomes one year into the COVID-19 pandemic",
+    "section": "Supplementary Materials",
+    "text": "Supplementary Materials\nThe data cleaning notebook and list of variables can be obtained freely here:"
+  },
+  {
+    "objectID": "publications/rsos2021/index.html",
+    "href": "publications/rsos2021/index.html",
+    "title": "Stress and worry in the 2020 coronavirus pandemic: Relationships to trust and compliance with preventive measures across 48 countries in the COVIDiSTRESS global survey",
+    "section": "",
+    "text": "pdf\nRoyal Society of Open Science"
+  },
+  {
+    "objectID": "publications/rsos2021/index.html#abstract",
+    "href": "publications/rsos2021/index.html#abstract",
+    "title": "Stress and worry in the 2020 coronavirus pandemic: Relationships to trust and compliance with preventive measures across 48 countries in the COVIDiSTRESS global survey",
+    "section": "Abstract",
+    "text": "Abstract\nThe COVIDiSTRESS global survey collects data on early human responses to the 2020 COVID-19 pandemic from 173429 respondents in 48 countries. The open science study was co-designed by an international consortium of researchers to investigate how psychological responses differ across countries and cultures, and how this has impacted behaviour, coping and trust in government efforts to slow the spread of the virus. Starting in March 2020, COVIDiSTRESS leveraged the convenience of unpaid online recruitment to generate public data. The objective of the present analysis is to understand relationships between psychological responses in the early months of global coronavirus restrictions and help understand how different government measures succeed or fail in changing public behaviour. There were variations between and within countries. Although Western Europeans registered as more concerned over COVID-19, more stressed, and having slightly more trust in the governments’ efforts, there was no clear geographical pattern in compliance with behavioural measures. Detailed plots illustrating between-countries differences are provided. Using both traditional and Bayesian analyses, we found that individuals who worried about getting sick worked harder to protect themselves and others. However, concern about the coronavirus itself did not account for all of the variances in experienced stress during the early months of COVID-19 restrictions. More alarmingly, such stress was associated with less compliance. Further, those most concerned over the coronavirus trusted in government measures primarily where policies were strict. While concern over a disease is a source of mental distress, other factors including strictness of protective measures, social support and personal lockdown conditions must also be taken into consideration to fully appreciate the psychological impact of COVID-19 and to understand why some people fail to follow behavioural guidelines intended to protect themselves and others from infection. The Stage 1 manuscript associated with this submission received in-principle acceptance (IPA) on 18 May 2020. Following IPA, the accepted Stage 1 version of the manuscript was preregistered on the Open Science Framework at . This preregistration was performed prior to data analysis."
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Mediation analysis of conspiratorial thinking and anti-expert sentiments on vaccine willingness\n\n\n\n\n\n\n\n\n\n\n\n\n\nValidity testing of the conspiratorial thinking and anti-expert sentiment scales during the COVID-19 pandemic across 24 languages from a large-scale global dataset\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOVIDiSTRESS diverse dataset on psychological and behavioural outcomes one year into the COVID-19 pandemic\n\n\n\n\n\n\n\n\n\n\n\n\n\nTwo-part models for father–child relationship variables: Presence in the child’s life and quality of the relationship conditional on some presence\n\n\n\n\n\n\n\n\n\n\n\n\n\nStress and worry in the 2020 coronavirus pandemic: Relationships to trust and compliance with preventive measures across 48 countries in the COVIDiSTRESS global survey\n\n\n\n\n\n\n\n\n\n\n\n\n\nA predictive internet-based model for COVID-19 hospitalization census\n\n\n\n\n\n\n\n\n\n\n\n\n\nCOVIDiSTRESS Global Survey dataset on psychological and behavioural consequences of the COVID-19 outbreak\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/ei2022/index.html",
+    "href": "publications/ei2022/index.html",
+    "title": "Validity testing of the conspiratorial thinking and anti-expert sentiment scales during the COVID-19 pandemic across 24 languages from a large-scale global dataset",
+    "section": "",
+    "text": "pdf\nEpidemiology & Infection"
+  },
+  {
+    "objectID": "publications/ei2022/index.html#abstract",
+    "href": "publications/ei2022/index.html#abstract",
+    "title": "Validity testing of the conspiratorial thinking and anti-expert sentiment scales during the COVID-19 pandemic across 24 languages from a large-scale global dataset",
+    "section": "Abstract",
+    "text": "Abstract\nIn this study, we tested the validity across two scales addressing conspiratorial thinking that may influence behaviours related to public health and the COVID-19 pandemic. Using the COVIDiSTRESSII Global Survey data from 12 261 participants, we validated the 4-item Conspiratorial Thinking Scale and 3-item Anti-Expert Sentiment Scale across 24 languages and dialects that were used by at least 100 participants per language. We employed confirmatory factor analysis, measurement invariance test and measurement alignment for internal consistency testing. To test convergent validity of the two scales, we assessed correlations with trust in seven agents related to government, science and public health. Although scalar invariance was not achieved when measurement invariance test was conducted initially, we found that both scales can be employed in further international studies with measurement alignment. Moreover, both conspiratorial thinking and anti-expert sentiments were significantly and negatively correlated with trust in all agents. Findings from this study provide supporting evidence for the validity of both scales across 24 languages for future large-scale international research."
+  },
+  {
+    "objectID": "publications/ei2022/index.html#supplementary-materials",
+    "href": "publications/ei2022/index.html#supplementary-materials",
+    "title": "Validity testing of the conspiratorial thinking and anti-expert sentiment scales during the COVID-19 pandemic across 24 languages from a large-scale global dataset",
+    "section": "Supplementary Materials",
+    "text": "Supplementary Materials\n\nDownload supplementary materials"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome, thank you for stopping by!",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Welcome, thank you for stopping by!",
+    "section": "Education",
+    "text": "Education\n\nPhD in Psychology | 2023 | Colorado State University | Fort Collins, CO, USA\nMS Psychology | 2020 | Colorado State University | Fort Collins, CO, USA\nBA Economics (Business minor) | 2015 | Colorado State University | Fort Collins, CO, USA\nBA Economics | 2015 | Foreign Trade University | Hanoi, Vietnam\n\n\nDownload my up-to-date vitae"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "On-going projects",
+    "section": "",
+    "text": "Global values survey\nThe project aims to understand human’s thoughts about wildlife, if and how such thoughts change over time. Understanding wildlife value orientation at multiple levels (e.g., individual, state/province, nation) has important implications for monitoring trends, formation of interventions and policies to facilitate conservation and sustainable development.\n\n\nSocial media, body dissatisfaction, and mood\nThis mixed-method project aims to uncover the complex relationship between social media use and subjective evaluation of one’s body as well as one’s thoughts and feelings. Knowledge on this topic has the potential to mitigate negativity from social media use while promoting body positivity and body appreciation, which is crucial for well-being.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/hp2023/index.html",
+    "href": "publications/hp2023/index.html",
+    "title": "Mediation analysis of conspiratorial thinking and anti-expert sentiments on vaccine willingness",
+    "section": "",
+    "text": "pdf\nHealth Psychology"
+  },
+  {
+    "objectID": "publications/hp2023/index.html#abstract",
+    "href": "publications/hp2023/index.html#abstract",
+    "title": "Mediation analysis of conspiratorial thinking and anti-expert sentiments on vaccine willingness",
+    "section": "Abstract",
+    "text": "Abstract\nObjective: Vaccines are an effective means to reduce the spread of diseases, but they are sometimes met with hesitancy that needs to be understood. Method: In this study, we analyzed data from a large, cross-country survey conducted between June and August 2021 in 43 countries (N = 15,740) to investigate the roles of trust in government and science in shaping vaccine attitudes and willingness to be vaccinated. Results: Despite significant variability between countries, we found that both forms of institutional trust were associated with a higher willingness to receive a COVID-19 vaccine. Furthermore, we found that conspiratorial thinking and anti-expert sentiments predicted reduced trust in government and science, respectively, and that trust mediated the relationship between these two constructs and ultimate vaccine attitudes. Although most countries displayed similar relationships between conspiratorial thinking and anti-expert sentiments, trust in government and science, and vaccine attitudes, we identified three countries (Brazil, Honduras, and Russia) that demonstrated significantly altered associations between the examined variables in terms of significant random slopes. Conclusions: Cross-country differences suggest that local governments’ support for COVID-19 prevention policies can influence populations’ vaccine attitudes. These findings provide insight for policymakers to develop interventions aiming to increase trust in the institutions involved in the vaccination process."
+  },
+  {
+    "objectID": "publications/hp2023/index.html#supplementary-materials",
+    "href": "publications/hp2023/index.html#supplementary-materials",
+    "title": "Mediation analysis of conspiratorial thinking and anti-expert sentiments on vaccine willingness",
+    "section": "Supplementary Materials",
+    "text": "Supplementary Materials\n\nDownload supplementary materials"
+  },
+  {
+    "objectID": "publications/jsswr2022/index.html",
+    "href": "publications/jsswr2022/index.html",
+    "title": "Two-part models for father–child relationship variables: Presence in the child’s life and quality of the relationship conditional on some presence",
+    "section": "",
+    "text": "pdf\nJournal of the Society of Social Work and Research"
+  },
+  {
+    "objectID": "publications/jsswr2022/index.html#abstract",
+    "href": "publications/jsswr2022/index.html#abstract",
+    "title": "Two-part models for father–child relationship variables: Presence in the child’s life and quality of the relationship conditional on some presence",
+    "section": "Abstract",
+    "text": "Abstract\nParent–child relationship variables are often measured using a two-part approach. For example, when assessing the warmth of the father–child relationship, a child is first asked if they have contact with their father; if so, the level of warmth they feel toward him is ascertained. In this setting, data on the warmth measure is missing for children without contact with their father, and such missing data can pose a significant methodological and substantive challenge when the variable is used as an outcome or antecedent variable in a model. In both cases, it is advantageous to use an analytic method that simultaneously models whether the child has contact with the father, and if they do, the degree to which the father–child relationship is characterized by warmth. This is particularly relevant when the two-part variable is measured over time, as contact status may change. We offer a pragmatic tutorial for using two-part variables in regression models, including a brief overview of growth modeling, an explanation of the techniques to handle two-part variables as predictors and outcomes in the context of growth modeling, examples with real data, and syntax in both R and Mplus for fitting all discussed models."
+  },
+  {
+    "objectID": "publications/jsswr2022/index.html#funding",
+    "href": "publications/jsswr2022/index.html#funding",
+    "title": "Two-part models for father–child relationship variables: Presence in the child’s life and quality of the relationship conditional on some presence",
+    "section": "Funding",
+    "text": "Funding\n\nR01DA020195\nHenry (PI)\n06/01/17-07/30/22\nIntergenerational Transmission of Risk for Drug Use"
+  },
+  {
+    "objectID": "publications/jsswr2022/index.html#supplementary-materials",
+    "href": "publications/jsswr2022/index.html#supplementary-materials",
+    "title": "Two-part models for father–child relationship variables: Presence in the child’s life and quality of the relationship conditional on some presence",
+    "section": "Supplementary Materials",
+    "text": "Supplementary Materials\nR and Mplus code for all examples\n\nhtml"
+  },
+  {
+    "objectID": "publications/sd2021/index.html",
+    "href": "publications/sd2021/index.html",
+    "title": "COVIDiSTRESS Global Survey dataset on psychological and behavioural consequences of the COVID-19 outbreak",
+    "section": "",
+    "text": "pdf\nScientific Data"
+  },
+  {
+    "objectID": "publications/sd2021/index.html#abstract",
+    "href": "publications/sd2021/index.html#abstract",
+    "title": "COVIDiSTRESS Global Survey dataset on psychological and behavioural consequences of the COVID-19 outbreak",
+    "section": "Abstract",
+    "text": "Abstract\nThis N = 173,426 social science dataset was collected through the collaborative COVIDiSTRESS Global Survey – an open science effort to improve understanding of the human experiences of the 2020 COVID-19 pandemic between 30th March and 30th May, 2020. The dataset allows a cross-cultural study of psychological and behavioural responses to the Coronavirus pandemic and associated government measures like cancellation of public functions and stay at home orders implemented in many countries. The dataset contains demographic background variables as well as measures of Asian Disease Problem, perceived stress (PSS-10), availability of social provisions (SPS-10), trust in various authorities, trust in governmental measures to contain the virus (OECD trust), personality traits (BFF-15), information behaviours, agreement with the level of government intervention, and compliance with preventive measures, along with a rich pool of exploratory variables and written experiences. A global consortium from 39 countries and regions worked together to build and translate a survey with variables of shared interests, and recruited participants in 47 languages and dialects. Raw plus cleaned data and dynamic visualizations are available."
+  },
+  {
+    "objectID": "publications/sr2020/index.html",
+    "href": "publications/sr2020/index.html",
+    "title": "A predictive internet-based model for COVID-19 hospitalization census",
+    "section": "",
+    "text": "pdf\nScientific Reports"
+  },
+  {
+    "objectID": "publications/sr2020/index.html#abstract",
+    "href": "publications/sr2020/index.html#abstract",
+    "title": "A predictive internet-based model for COVID-19 hospitalization census",
+    "section": "Abstract",
+    "text": "Abstract\nThe COVID-19 pandemic has strained hospital resources and necessitated the need for predictive models to forecast patient care demands in order to allow for adequate staffing and resource allocation. Recently, other studies have looked at associations between Google Trends data and the number of COVID-19 cases. Expanding on this approach, we propose a vector error correction model (VECM) for the number of COVID-19 patients in a healthcare system (Census) that incorporates Google search term activity and healthcare chatbot scores. The VECM provided a good fit to Census and very good forecasting performance as assessed by hypothesis tests and mean absolute percentage prediction error. Although our study and model have limitations, we have conducted a broad and insightful search for candidate Internet variables and employed rigorous statistical methods. We have demonstrated the VECM can potentially be a valuable component to a COVID-19 surveillance program in a healthcare system."
+  }
+]

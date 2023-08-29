@@ -1,0 +1,22 @@
+---
+date: "2022-06-21"
+title: "COVIDiSTRESS diverse dataset on psychological and behavioural outcomes one year into the COVID-19 pandemic"
+subtitle: Angélique M. Blackburn, Sara Vestergren, Thao P. Tran, the COVIDiSTRESS II Consortium
+image: featured.png
+title-block-style: none
+toc: true
+---
+
+<button type="button" class="btn btn-outline-success"><a href="/publications/sd2022/COVIDiSTRESSdata.pdf">pdf</a></button>
+
+<button type="button" class="btn btn-outline-success"><a href="https://doi.org/10.1038/s41597-022-01383-6">journal</a></button>
+
+*Journal of the Society of Social Work and Research*
+
+## Abstract 
+During the onset of the COVID-19 pandemic, the COVIDiSTRESS Consortium launched an open-access global survey to understand and improve individuals’ experiences related to the crisis. A year later, we extended this line of research by launching a new survey to address the dynamic landscape of the pandemic. This survey was released with the goal of addressing diversity, equity, and inclusion by working with over 150 researchers across the globe who collected data in 48 languages and dialects across 137 countries. The resulting cleaned dataset described here includes 15,740 of over 20,000 responses. The dataset allows cross-cultural study of psychological wellbeing and behaviours a year into the pandemic. It includes measures of stress, resilience, vaccine attitudes, trust in government and scientists, compliance, and information acquisition and misperceptions regarding COVID-19. Open-access raw and cleaned datasets with computed scores are available. Just as our initial COVIDiSTRESS dataset has facilitated government policy decisions regarding health crises, this dataset can be used by researchers and policy makers to inform research, decisions, and policy.
+
+
+## Supplementary Materials
+
+The data cleaning notebook and list of variables can be obtained freely here: [](https://doi.org/10.17605/OSF.IO/36TSD)

@@ -1,0 +1,19 @@
+---
+title: "Publications"
+listing:
+  fields: [image,title]
+  contents: 
+    - hp2023
+    - ei2022
+    - jsswr2022
+    - sd2022
+    - rsos2021
+    - sd2021
+    - sr2020
+  type: grid
+  grid-columns: 3
+  categories: false
+  image-align: left
+  sort: "date desc"
+---
+

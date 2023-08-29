@@ -1,0 +1,18 @@
+---
+date: "2021-10-02"
+title: "Stress and worry in the 2020 coronavirus pandemic: Relationships to trust and compliance with preventive measures across 48 countries in the COVIDiSTRESS global survey"
+subtitle: Andreas Lieberoth, Shiang-Yi Lin, Sabrina Stöckli, Hyemin Han, Marta Kowal, Rebekah Gelpi, Stavroula Chrona, Thao Phuong Tran, Alma Jeftić, Jesper Rasmussen, Huseyin Cakal, Taciano L. Milfont, the COVIDiSTRESS global survey consortium
+image: featured.jpg
+title-block-style: none
+toc: true
+---
+
+<button type="button" class="btn btn-outline-success"><a href="/publications/rsos2021/rsos.200589.pdf">pdf</a></button>
+
+<button type="button" class="btn btn-outline-success"><a href="https://doi.org/10.1098/rsos.200589">journal</a></button>
+
+*Royal Society of Open Science*
+
+## Abstract 
+The COVIDiSTRESS global survey collects data on early human responses to the 2020 COVID-19 pandemic from 173429 respondents in 48 countries. The open science study was co-designed by an international consortium of researchers to investigate how psychological responses differ across countries and cultures, and how this has impacted behaviour, coping and trust in government efforts to slow the spread of the virus. Starting in March 2020, COVIDiSTRESS leveraged the convenience of unpaid online recruitment to generate public data. The objective of the present analysis is to understand relationships between psychological responses in the early months of global coronavirus restrictions and help understand how different government measures succeed or fail in changing public behaviour. There were variations between and within countries. Although Western Europeans registered as more concerned over COVID-19, more stressed, and having slightly more trust in the governments’ efforts, there was no clear geographical pattern in compliance with behavioural measures. Detailed plots illustrating between-countries differences are provided. Using both traditional and Bayesian analyses, we found that individuals who worried about getting sick worked harder to protect themselves and others. However, concern about the coronavirus itself did not account for all of the variances in experienced stress during the early months of COVID-19 restrictions. More alarmingly, such stress was associated with less compliance. Further, those most concerned over the coronavirus trusted in government measures primarily where policies were strict. While concern over a disease is a source of mental distress, other factors including strictness of protective measures, social support and personal lockdown conditions must also be taken into consideration to fully appreciate the psychological impact of COVID-19 and to understand why some people fail to follow behavioural guidelines intended to protect themselves and others from infection. The Stage 1 manuscript associated with this submission received in-principle acceptance (IPA) on 18 May 2020. Following IPA, the accepted Stage 1 version of the manuscript was preregistered on the Open Science Framework at [](https://osf.io/ytbcs). This preregistration was performed prior to data analysis.
+

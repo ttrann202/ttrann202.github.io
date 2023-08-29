@@ -1,0 +1,16 @@
+---
+layout: page
+title: On-going projects
+listing: 
+  fields: [title]
+---
+
+### Global values survey 
+
+The project aims to understand human's thoughts about wildlife, if and how such thoughts change over time. Understanding wildlife value orientation at multiple levels (e.g., individual, state/province, nation) has important implications for monitoring trends, formation of interventions and policies to facilitate conservation and sustainable development.
+
+### Social media, body dissatisfaction, and mood
+
+This mixed-method project aims to uncover the complex relationship between social media use and subjective evaluation of one's body as well as one's thoughts and feelings. Knowledge on this topic has the potential to mitigate negativity from social media use while promoting body positivity and body appreciation, which is crucial for well-being. 
+
+
