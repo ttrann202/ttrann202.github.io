@@ -1,8 +1,9 @@
 ---
+# This is the landing page for my website
 about:
   template: jolla
   id: about-block
-  image: "img/my_image.jpg"
+  image: "img/my_image.png"
   links:
     #- icon: twitter
      # text: Twitter
@@ -23,7 +24,7 @@ about:
 
 # Welcome, thank you for stopping by!
 
-I am a researcher specializing in applied social and health psychology. My objective is to formulate and validate robust statistical frameworks aimed at comprehending intricate interactions among various socio-ecological elements, and ultimately, help promote a wholesome and purposeful existence for individuals. While my research has been primarily quantitatively driven, I am actively incorporating more qualitative and mixed method approaches in my present and future work to garner more holistic understanding of human experiences.
+I am an applied researcher with a PhD in psychology. I am currently working as a Research Associate at the Center for Urban Studies, Wayne State University. I am deeply interested in interdisciplinary and mixed-method research. 
 
 ## Education
 
@@ -34,7 +35,7 @@ I am a researcher specializing in applied social and health psychology. My objec
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://1drv.ms/b/s!AgMw9OjBTBkp1H91wNLzJW9omaeW?e=pt9BAp" role="button" target="_blank" style="padding: 15px 30px;">Download my up-to-date vitae</a>
+<a class="btn btn-primary" href="https://1drv.ms/b/c/29194cc1e8f43003/EVhw18O99B1ChXcVL-yjLDkBkNYCVll_WJKg5EpQ1i-J6g?e=xTBHr3" role="button" target="_blank" style="padding: 15px 30px;">Download my most recent research resume</a>
 </div>
 ```
 

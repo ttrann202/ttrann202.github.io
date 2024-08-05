@@ -1,16 +1,24 @@
 ---
 layout: page
 title: On-going projects
-listing: 
-  fields: [title]
 ---
 
-### Global values survey 
+### Actions and Attitudes on Climate Change
 
-The project aims to understand human's thoughts about wildlife, if and how such thoughts change over time. Understanding wildlife value orientation at multiple levels (e.g., individual, state/province, nation) has important implications for monitoring trends, formation of interventions and policies to facilitate conservation and sustainable development.
+The project is in its nascent stage. To date, we have collected some pilot data to improve our questionnaire. Another pilot questionnaire will be sent out within the year of 2024 for a broader sample before the survey can be finalized.
 
-### Social media, body dissatisfaction, and mood
+### Data-Driven Community-Centered Resilient Assessment and Planning Toolkit for Nexus of Energy and Water
 
-This mixed-method project aims to uncover the complex relationship between social media use and subjective evaluation of one's body as well as one's thoughts and feelings. Knowledge on this topic has the potential to mitigate negativity from social media use while promoting body positivity and body appreciation, which is crucial for well-being. 
+The project is funded by the Department of Energy with the aim to develop an open-source, community-centered, and data-driven tool for distributed energy planning tool in urban areas. The Center of Urban Studies is surveying residents throughout the city of Detroit for their experiences with the city's energy and water systems. Results from the community surveys will be used in conjunction with information from community and institutional leaders, energy and water utility historical data to devise the energy resource planning tool.
 
+### Community engagement regarding Volatile Organic Compounds in urban setting
 
+The project assesses levels of Volatile Organic Compounds in residential homes in different parts of Detroit city. Data collection is still in progress.
+
+### Michigan's Part B Performance Plan
+
+Funded by Michigan Department of Education, the project evaluates the quality of special education services that Michigan families with children aged 0-26 receive. Reports are submitted annually to help promote better service engagement and quality for families in need.
+
+### Global values survey
+
+Global values survey is a collaborative project between a research team at the Department of Human Dimensions of Natural Resources (Colorado State University) and other researchers in multiple European and Latin American countries. The project aims to understand human's thoughts about wildlife, if and how such thoughts change over time. Understanding wildlife value orientation at multiple levels (e.g., individual, state/province, nation) has important implications for monitoring trends, formation of interventions and policies to facilitate conservation and sustainable development.

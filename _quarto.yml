@@ -1,10 +1,10 @@
-# This file controls the settings for your Quarto template from www.marvinschmitt.com
+# This file controls the settings my website
 
 # website settings
 website:
-  title: "Thao Tran"                                # Your name
-  description: "Psychologist | Data Scientist"   # A brief slogan (optional)
-  image: img/my_image.jpg
+  title: "Thao P. Tran"      
+  description: "Applied Researcher"
+  image: img/my_image.png
   
   #favicon: img/favicon.png #Comment out since I do not have a logo atm.
   
@@ -13,7 +13,7 @@ website:
     pinned: true
     #logo: /img/logo.png
     
-    # your sub-pages
+    #sub-pages
     left:
       - text: "Projects"
         href: projects/index.qmd
@@ -26,8 +26,6 @@ website:
     right:
       - icon: github
         href: https://github.com/ttrann202
-      #- icon: twitter
-        #href: https://twitter.com/MarvinSchmittML
       - icon: linkedin
         href: https://www.linkedin.com/in/thaotrann/
       - icon: envelope
